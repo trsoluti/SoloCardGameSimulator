@@ -58,11 +58,35 @@ public class CardBehaviour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // !null == this card is part of a deck
+        var deckBehaviour = GetComponentInParent<DeckBehaviour>();
         Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         if (Input.GetMouseButtonDown(0))
         {
             if (Physics2D.OverlapPoint(mousePos) == myCollider)
             {
+                if (deckBehaviour)
+                {
+                    deckBehaviour.RemoveCardFromDeck(transform);
+                    transform.parent = null;
+                    deckBehaviour = null; // can now treat as a real card
+                }
+                //var parent = transform.parent;
+                //if (parent != null)
+                //{
+                //    print(string.Format("Parent: {0}", transform.parent.name));
+                //    // This not great as technically we should only remove it from the deck
+                //    // if we take it OFF the deck. But it's kind of hard to know that.
+                //    var deckBehaviour = GetComponentInParent<DeckBehaviour>();
+                //    if (deckBehaviour != null)
+                //    {
+                //        print("Parent has deck behaviour.");
+                //        //deckBehaviour.RemoveCardFromDeck(transform);
+                //        deckBehaviour.DealTopCard();
+                //        return; // don't treat this as a pickup.
+                //    }
+                //    transform.parent = null; // remove from hierarchy
+                //}
                 var xyPos = new Vector2(this.transform.position.x, this.transform.position.y);
                 this.mouseOffset = new OptionalVector2(mousePos - xyPos);
                 print(string.Format("Mouse down while mouse over card! Mouse offset = {0}", mouseOffset));
@@ -97,26 +121,34 @@ public class CardBehaviour : MonoBehaviour
         this.front.enabled = flippedOver;
         this.back.enabled = !flippedOver;
 
-        this.front.sortingLayerID = this.currentLayerID;
-        this.back.sortingLayerID = this.currentLayerID;
-
-        // Determine our order in the display
-        if (this.currentLayerID == this.defaultLayerID)
+        if (deckBehaviour == null)
         {
-            var overlapResults = new List<Collider2D>();
-            var contactFilter = new ContactFilter2D();
-            var numHits = this.myCollider.OverlapCollider(contactFilter.NoFilter(), overlapResults);
-            print(string.Format("Overlapping with {0} cards", numHits));
-            // TODO: find the highest sort order and set ours to one above that.
-            foreach (Collider2D collider in overlapResults)
+            this.front.sortingLayerID = this.currentLayerID;
+            this.back.sortingLayerID = this.currentLayerID;
+
+            // Determine our order in the display
+            if (this.currentLayerID == this.defaultLayerID)
             {
+                var overlapResults = new List<Collider2D>();
+                var contactFilter = new ContactFilter2D();
+                var numHits = this.myCollider.OverlapCollider(contactFilter.NoFilter(), overlapResults);
+                // print(string.Format("Overlapping with {0} cards", numHits));
+                // TODO: find the highest sort order and set ours to one above that.
+                foreach (Collider2D collider in overlapResults)
+                {
+
+                }
+                // TODO: if no hits, then our sort order is 0.
 
             }
-            // TODO: if no hits, then our sort order is 0.
-
         }
 
     }
-
+    public void SetOrderInLayer(int newOrderInLayer)
+    {
+        this.orderInLayer = newOrderInLayer;
+        this.front.sortingOrder = newOrderInLayer;
+        this.back.sortingOrder = newOrderInLayer;
+    }
     
 }
