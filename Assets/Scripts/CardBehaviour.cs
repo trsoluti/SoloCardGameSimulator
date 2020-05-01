@@ -53,45 +53,26 @@ public class CardBehaviour : MonoBehaviour
         this.orderInLayer = front.sortingOrder;
         this.currentLayerID = front.sortingLayerID;
         this.defaultLayerID = this.currentLayerID;
+
+        this.front.enabled = flippedOver;
+        this.back.enabled = !flippedOver;
     }
 
     // Update is called once per frame
     void Update()
     {
-        // !null == this card is part of a deck
+        // Don't do anything if the card is part of a deck.
         var deckBehaviour = GetComponentInParent<DeckBehaviour>();
+        if (deckBehaviour != null)
+        {
+            return;
+        }
         Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         if (Input.GetMouseButtonDown(0))
         {
             if (Physics2D.OverlapPoint(mousePos) == myCollider)
             {
-                if (deckBehaviour)
-                {
-                    deckBehaviour.RemoveCardFromDeck(transform);
-                    transform.parent = null;
-                    deckBehaviour = null; // can now treat as a real card
-                }
-                //var parent = transform.parent;
-                //if (parent != null)
-                //{
-                //    print(string.Format("Parent: {0}", transform.parent.name));
-                //    // This not great as technically we should only remove it from the deck
-                //    // if we take it OFF the deck. But it's kind of hard to know that.
-                //    var deckBehaviour = GetComponentInParent<DeckBehaviour>();
-                //    if (deckBehaviour != null)
-                //    {
-                //        print("Parent has deck behaviour.");
-                //        //deckBehaviour.RemoveCardFromDeck(transform);
-                //        deckBehaviour.DealTopCard();
-                //        return; // don't treat this as a pickup.
-                //    }
-                //    transform.parent = null; // remove from hierarchy
-                //}
-                var xyPos = new Vector2(this.transform.position.x, this.transform.position.y);
-                this.mouseOffset = new OptionalVector2(mousePos - xyPos);
-                print(string.Format("Mouse down while mouse over card! Mouse offset = {0}", mouseOffset));
-                this.orderInLayer = 1000; // above everything
-                this.currentLayerID = SortingLayer.NameToID("Moving");
+                this.StartDrag(mousePos);
             }
         } else if (Input.GetMouseButtonUp(0))
         {
@@ -150,5 +131,14 @@ public class CardBehaviour : MonoBehaviour
         this.front.sortingOrder = newOrderInLayer;
         this.back.sortingOrder = newOrderInLayer;
     }
-    
+    public void StartDrag(Vector2 mousePos)
+    {
+        var xyPos = new Vector2(this.transform.position.x, this.transform.position.y);
+        this.mouseOffset = new OptionalVector2(mousePos - xyPos);
+        print(string.Format("Mouse down while mouse over card! Mouse offset = {0}", mouseOffset));
+        this.orderInLayer = 1000; // above everything
+        this.currentLayerID = SortingLayer.NameToID("Moving");
+
+    }
+
 }
