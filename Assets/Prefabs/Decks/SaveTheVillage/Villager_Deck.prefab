@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5886029708927521443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6951491956041992067}
+  - component: {fileID: 5790830625314699559}
+  m_Layer: 0
+  m_Name: Villager_Deck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6951491956041992067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5886029708927521443}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5790830625314699559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5886029708927521443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bff477f9a5db14d3bb07ad96142ab36e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 4685283756640718548, guid: 8296aaaeeedcf41c79090214eb3182c2, type: 3}
+  - {fileID: 1929672812686578581, guid: 3e95dc26fc98d43f8a3f17bf4ce4400f, type: 3}
+  - {fileID: 5071213843101402294, guid: 04ed725f7778949dc8c617b48efa1d5f, type: 3}
+  - {fileID: 5132493505922234149, guid: bdfc10942836049fa8dc45bc07d8213e, type: 3}
+  - {fileID: 5271813056336952841, guid: 076240463a108489a9054da77af4b194, type: 3}
+  - {fileID: 2732537691095628566, guid: 4bc82795f0af14c0ca08cb9f062762f5, type: 3}
+  - {fileID: 7788320892316781947, guid: d69850df653134945bafbf93e55b4cc6, type: 3}
+  - {fileID: 1854295252862463416, guid: 8c4c0ae6f957545a6b1c874338cd8026, type: 3}
+  - {fileID: 3628462327027300303, guid: bebb756216f2b4c55b02f86839082235, type: 3}
+  - {fileID: 4242946831531438203, guid: 21acfeb5e6d13454e803d3f4e087b5c3, type: 3}

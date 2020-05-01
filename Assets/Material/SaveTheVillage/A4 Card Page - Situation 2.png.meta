@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 0a9df5d95ae774dfeb084bc442c59d8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8693901703019084180
+    second: A4 Card Page - Situation 2_0
+  - first:
+      213: 6230955761677301942
+    second: A4 Card Page - Situation 2_1
+  - first:
+      213: -6091507631724427941
+    second: A4 Card Page - Situation 2_2
+  - first:
+      213: -472759389935831246
+    second: A4 Card Page - Situation 2_3
+  - first:
+      213: -2776269771740502748
+    second: A4 Card Page - Situation 2_4
+  - first:
+      213: -475515074972475741
+    second: A4 Card Page - Situation 2_5
+  - first:
+      213: -7225906794263453127
+    second: A4 Card Page - Situation 2_6
+  - first:
+      213: -6233801631646803463
+    second: A4 Card Page - Situation 2_7
+  - first:
+      213: -6762998767517391152
+    second: A4 Card Page - Situation 2_8
+  - first:
+      213: 6453836430250906979
+    second: A4 Card Page - Situation 2_9
+  - first:
+      213: 7708747266949973241
+    second: A4 Card Page - Situation 2_10
+  - first:
+      213: 1853677670217728264
+    second: A4 Card Page - Situation 2_11
+  - first:
+      213: 7155738878276321884
+    second: A4 Card Page - Situation 2_12
+  - first:
+      213: -8169119738758555423
+    second: A4 Card Page - Situation 2_13
+  - first:
+      213: -1829427581874030196
+    second: A4 Card Page - Situation 2_14
+  - first:
+      213: 684731182729741274
+    second: A4 Card Page - Situation 2_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66426f967e095780800000000000000
+      internalID: -8693901703019084180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8f2f1904dc87650800000000000000
+      internalID: 6230955761677301942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b550c78451e967ba0800000000000000
+      internalID: -6091507631724427941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237f4a2f6db6079f0800000000000000
+      internalID: -472759389935831246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a0c61a55b879d0800000000000000
+      internalID: -2776269771740502748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae1ce60f81a669f0800000000000000
+      internalID: -475515074972475741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93268db1e0c68bb90800000000000000
+      internalID: -7225906794263453127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91171b1761d79a0800000000000000
+      internalID: -6233801631646803463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6a8bde3700522a0800000000000000
+      internalID: -6762998767517391152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36594971a02a09950800000000000000
+      internalID: 6453836430250906979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f401ddebc8fafa60800000000000000
+      internalID: 7708747266949973241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801c665150699b910800000000000000
+      internalID: 1853677670217728264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52cc19d89a4e4360800000000000000
+      internalID: 7155738878276321884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81aa321e471ae80800000000000000
+      internalID: -8169119738758555423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89b8189e419c96e0800000000000000
+      internalID: -1829427581874030196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Situation 2_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34d310267a08900800000000000000
+      internalID: 684731182729741274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

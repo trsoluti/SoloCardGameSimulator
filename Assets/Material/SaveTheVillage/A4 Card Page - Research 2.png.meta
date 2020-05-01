@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: d6f71f3d903d64ba9be2eaa9dd9180a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2779058352746122114
+    second: A4 Card Page - Research 2_0
+  - first:
+      213: 1738399497926078622
+    second: A4 Card Page - Research 2_1
+  - first:
+      213: -2921971707838718612
+    second: A4 Card Page - Research 2_2
+  - first:
+      213: -8337074404668120078
+    second: A4 Card Page - Research 2_3
+  - first:
+      213: 8714468435144134684
+    second: A4 Card Page - Research 2_4
+  - first:
+      213: -5125759609206632155
+    second: A4 Card Page - Research 2_5
+  - first:
+      213: -708088040779843395
+    second: A4 Card Page - Research 2_6
+  - first:
+      213: -8320070239023668689
+    second: A4 Card Page - Research 2_7
+  - first:
+      213: 7311659327091899558
+    second: A4 Card Page - Research 2_8
+  - first:
+      213: 8173472653522654750
+    second: A4 Card Page - Research 2_9
+  - first:
+      213: 7737814830058276805
+    second: A4 Card Page - Research 2_10
+  - first:
+      213: -737659084933961524
+    second: A4 Card Page - Research 2_11
+  - first:
+      213: 6089632485693352837
+    second: A4 Card Page - Research 2_12
+  - first:
+      213: -7360054982078231604
+    second: A4 Card Page - Research 2_13
+  - first:
+      213: 2083719132873798979
+    second: A4 Card Page - Research 2_14
+  - first:
+      213: -6047784700246196494
+    second: A4 Card Page - Research 2_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e743c7af62dce69d0800000000000000
+      internalID: -2779058352746122114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90f9970229002810800000000000000
+      internalID: 1738399497926078622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d188686321377d0800000000000000
+      internalID: -2921971707838718612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f361cb2003cc4c80800000000000000
+      internalID: -8337074404668120078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10de1bded200f870800000000000000
+      internalID: 8714468435144134684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5219139fac4add8b0800000000000000
+      internalID: -5125759609206632155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db87d93bdad5c26f0800000000000000
+      internalID: -708088040779843395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e1b0033c298c80800000000000000
+      internalID: -8320070239023668689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acfbfd4b6b387560800000000000000
+      internalID: 7311659327091899558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16569ec2120e6170800000000000000
+      internalID: 8173472653522654750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78f5b579d326b60800000000000000
+      internalID: 7737814830058276805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8eb2578fe43c5f0800000000000000
+      internalID: -737659084933961524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b6e624b78b28450800000000000000
+      internalID: 6089632485693352837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb02e13df4dbd990800000000000000
+      internalID: -7360054982078231604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b0a6e28bdaec10800000000000000
+      internalID: 2083719132873798979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Research 2_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe78cf8bd3f11ca0800000000000000
+      internalID: -6047784700246196494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

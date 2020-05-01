@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: f130ef337abac418f981ba652da2ff3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4970823394066127755
+    second: A4 Card Page - Explore 3_0
+  - first:
+      213: -2001971511397462843
+    second: A4 Card Page - Explore 3_1
+  - first:
+      213: 8158034681908336262
+    second: A4 Card Page - Explore 3_2
+  - first:
+      213: 3848738483339310015
+    second: A4 Card Page - Explore 3_3
+  - first:
+      213: 8022628049702712511
+    second: A4 Card Page - Explore 3_4
+  - first:
+      213: 1833431734758525143
+    second: A4 Card Page - Explore 3_5
+  - first:
+      213: 1945403602178177853
+    second: A4 Card Page - Explore 3_6
+  - first:
+      213: -6099429959088885266
+    second: A4 Card Page - Explore 3_7
+  - first:
+      213: 4364005836617166257
+    second: A4 Card Page - Explore 3_8
+  - first:
+      213: -5473203788381099296
+    second: A4 Card Page - Explore 3_9
+  - first:
+      213: -4451632019248093007
+    second: A4 Card Page - Explore 3_10
+  - first:
+      213: -2539098857349481046
+    second: A4 Card Page - Explore 3_11
+  - first:
+      213: 539827088542321516
+    second: A4 Card Page - Explore 3_12
+  - first:
+      213: -8331595636316309187
+    second: A4 Card Page - Explore 3_13
+  - first:
+      213: 7852039058802053706
+    second: A4 Card Page - Explore 3_14
+  - first:
+      213: -6936836185564957737
+    second: A4 Card Page - Explore 3_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b53845a89ebf440800000000000000
+      internalID: 4970823394066127755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccc3bc64819734e0800000000000000
+      internalID: -2001971511397462843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6869670f159273170800000000000000
+      internalID: 8158034681908336262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3b0d45247796530800000000000000
+      internalID: 3848738483339310015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47d9b94b9165f60800000000000000
+      internalID: 8022628049702712511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8c536e278a17910800000000000000
+      internalID: 1833431734758525143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b789cd4467ffa10800000000000000
+      internalID: 1945403602178177853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1b124b4c87a5ba0800000000000000
+      internalID: -6099429959088885266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd2c49df20109c30800000000000000
+      internalID: 4364005836617166257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eae83a17264b04b0800000000000000
+      internalID: -5473203788381099296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b866f5a340a832c0800000000000000
+      internalID: -4451632019248093007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad751eba0f43ccd0800000000000000
+      internalID: -2539098857349481046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc2bc70e9dd7700800000000000000
+      internalID: 539827088542321516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39fb2559e9306c80800000000000000
+      internalID: -8331595636316309187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42936e0ceb08fc60800000000000000
+      internalID: 7852039058802053706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Explore 3_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3335efd386bbf90800000000000000
+      internalID: -6936836185564957737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

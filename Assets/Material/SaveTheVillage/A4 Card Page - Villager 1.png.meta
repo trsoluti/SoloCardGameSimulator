@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: fd023ed48236046f192108c7d54302ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2419249737135440446
+    second: A4 Card Page - Villager 1_0
+  - first:
+      213: -2454187775711154495
+    second: A4 Card Page - Villager 1_1
+  - first:
+      213: -5666629898363090812
+    second: A4 Card Page - Villager 1_2
+  - first:
+      213: 3698841113026240133
+    second: A4 Card Page - Villager 1_3
+  - first:
+      213: 7055893936240315696
+    second: A4 Card Page - Villager 1_4
+  - first:
+      213: -2025847238023025214
+    second: A4 Card Page - Villager 1_5
+  - first:
+      213: -239149094336209235
+    second: A4 Card Page - Villager 1_6
+  - first:
+      213: -5365616972828224151
+    second: A4 Card Page - Villager 1_7
+  - first:
+      213: 4317601703942905866
+    second: A4 Card Page - Villager 1_8
+  - first:
+      213: 2876127901257500617
+    second: A4 Card Page - Villager 1_9
+  - first:
+      213: 5173816544203455186
+    second: A4 Card Page - Villager 1_10
+  - first:
+      213: 8271646278886204735
+    second: A4 Card Page - Villager 1_11
+  - first:
+      213: 8002407285338687980
+    second: A4 Card Page - Villager 1_12
+  - first:
+      213: 4114670689240677520
+    second: A4 Card Page - Villager 1_13
+  - first:
+      213: -6263039441238553224
+    second: A4 Card Page - Villager 1_14
+  - first:
+      213: -2876532949860299115
+    second: A4 Card Page - Villager 1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324ae471d6e29120800000000000000
+      internalID: 2419249737135440446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce61a88839f0fdd0800000000000000
+      internalID: -2454187775711154495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488c57a61261c51b0800000000000000
+      internalID: -5666629898363090812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 590
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e1a8e156ce45330800000000000000
+      internalID: 3698841113026240133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dcf6ab6229be160800000000000000
+      internalID: 7055893936240315696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd6e60abaeb2e3e0800000000000000
+      internalID: -2025847238023025214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daedbbf6a2f5eacf0800000000000000
+      internalID: -239149094336209235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 397
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96554cd9acf7985b0800000000000000
+      internalID: -5365616972828224151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a006325cfd33beb30800000000000000
+      internalID: 4317601703942905866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70b0b761f0ae720800000000000000
+      internalID: 2876127901257500617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da39422cb61dc740800000000000000
+      internalID: 5173816544203455186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35a1b0377acac270800000000000000
+      internalID: 8271646278886204735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce94c9607034e0f60800000000000000
+      internalID: 8002407285338687980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf6eff03f3a1930800000000000000
+      internalID: 4114670689240677520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d07baafc63519a0800000000000000
+      internalID: -6263039441238553224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A4 Card Page - Villager 1_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 11
+        width: 139
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ecedac5808418d0800000000000000
+      internalID: -2876532949860299115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2453506130493552413
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2453506130493552411}
+  - component: {fileID: 2453506130493552412}
+  m_Layer: 0
+  m_Name: Research_Deck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2453506130493552411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2453506130493552413}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2453506130493552412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2453506130493552413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bff477f9a5db14d3bb07ad96142ab36e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 1134280556404331080, guid: 539bc46858fa442699a0319b7bdfb4b0, type: 3}
+  - {fileID: 1771664963609764152, guid: 4a37576406a59414a92cb8bfca3c99a5, type: 3}
+  - {fileID: 2816854112108872385, guid: c50d2df6f10464f8e8e66e99bbf4c4ba, type: 3}
+  - {fileID: 6065452341603824948, guid: 435997a3ba5c24c92bd9301a32db5d4e, type: 3}
+  - {fileID: 6668639192307945226, guid: f6212506a1d9e44e49c1508bbd199fc0, type: 3}
+  - {fileID: 3708847219022423115, guid: 255401e9c184e48b091180fccc24eae2, type: 3}
+  - {fileID: 160829501968129564, guid: b3d303cd1b0254b6c9cc526c8290f2a7, type: 3}
+  - {fileID: 1365213277782499705, guid: 658e8a050b0c94da796cc49bea31a76c, type: 3}
+  - {fileID: 1813347047084806271, guid: acc24d345a89744c5975f7c72825f0f1, type: 3}
+  - {fileID: 2438123996708244415, guid: 542859e180cfd44949c625aa545a28d3, type: 3}

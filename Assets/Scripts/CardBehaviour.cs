@@ -99,30 +99,78 @@ public class CardBehaviour : MonoBehaviour
             }
         }
 
+        if (Input.GetButtonDown("Replace"))
+        {
+            if (Physics2D.OverlapPoint(mousePos) == myCollider)
+            {
+                print("replace button pressed.");
+                // action is not valid if the card is not in collision with a deck
+                var overlapResults = new List<Collider2D>();
+                var contactFilter = new ContactFilter2D();
+                var numOverlaps = this.myCollider.OverlapCollider(contactFilter.NoFilter(), overlapResults);
+                if (numOverlaps == 0)
+                {
+                    print("Not overlapping with anything.");
+                } else
+                {
+                    DeckBehaviour deck = null;
+                    foreach (Collider2D collider in overlapResults)
+                    {
+                        var parent = collider.transform.parent;
+                        if (parent != null)
+                        {
+                            deck = parent.GetComponent<DeckBehaviour>();
+                            if (deck != null)
+                            {
+                                break;
+                            }
+                        }
+
+                    }
+                    if (deck == null)
+                    {
+                        print("Not overlapping with deck.");
+                    }
+                    else
+                    {
+                        print(string.Format("About to reattach to deck {0}", deckBehaviour));
+                        // tell the deck to take us
+                        deck.RestoreCard(transform);
+                        // set our parent to the deck
+                        transform.parent = deck.transform;
+                        transform.position = deck.transform.position;
+                        flippedOver = false;
+                        // reshuffle the deck
+                        deck.Shuffle();
+                    }
+                }
+            }
+        }
+
         this.front.enabled = flippedOver;
         this.back.enabled = !flippedOver;
 
-        if (deckBehaviour == null)
-        {
-            this.front.sortingLayerID = this.currentLayerID;
-            this.back.sortingLayerID = this.currentLayerID;
+        //if (deckBehaviour == null)
+        //{
+        //    this.front.sortingLayerID = this.currentLayerID;
+        //    this.back.sortingLayerID = this.currentLayerID;
 
-            // Determine our order in the display
-            if (this.currentLayerID == this.defaultLayerID)
-            {
-                var overlapResults = new List<Collider2D>();
-                var contactFilter = new ContactFilter2D();
-                var numHits = this.myCollider.OverlapCollider(contactFilter.NoFilter(), overlapResults);
-                // print(string.Format("Overlapping with {0} cards", numHits));
-                // TODO: find the highest sort order and set ours to one above that.
-                foreach (Collider2D collider in overlapResults)
-                {
+        //    // Determine our order in the display
+        //    if (this.currentLayerID == this.defaultLayerID)
+        //    {
+        //        var overlapResults = new List<Collider2D>();
+        //        var contactFilter = new ContactFilter2D();
+        //        var numHits = this.myCollider.OverlapCollider(contactFilter.NoFilter(), overlapResults);
+        //        // print(string.Format("Overlapping with {0} cards", numHits));
+        //        // TODO: find the highest sort order and set ours to one above that.
+        //        foreach (Collider2D collider in overlapResults)
+        //        {
 
-                }
-                // TODO: if no hits, then our sort order is 0.
+        //        }
+        //        // TODO: if no hits, then our sort order is 0.
 
-            }
-        }
+        //    }
+        //}
 
     }
     public void SetOrderInLayer(int newOrderInLayer)

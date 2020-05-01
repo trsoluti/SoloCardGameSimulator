@@ -11,8 +11,6 @@ public class DeckBehaviour : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Shuffle();
-
         // Note cards are instantiated such that the last item is on top
         this.cardInstances = new Transform[cards.Length];
         for (int iCard = 0; iCard < cards.Length; iCard++)
@@ -26,6 +24,8 @@ public class DeckBehaviour : MonoBehaviour
             //}
             this.cardInstances[iCard] = cardInstance;
         }
+        Shuffle();
+
     }
 
     // Update is called once per frame
@@ -81,7 +81,7 @@ public class DeckBehaviour : MonoBehaviour
 
     public void Shuffle()
     {
-        for (int pass = 0; pass < 3; pass++)
+        for (int pass = 0; pass < 15; pass++)
         {
             for (int iCard = 0; iCard < cards.Length; iCard++)
             {
@@ -91,6 +91,10 @@ public class DeckBehaviour : MonoBehaviour
                     var savedCard = cards[iCard];
                     cards[iCard] = cards[iSwapCard];
                     cards[iSwapCard] = savedCard;
+
+                    var savedCardInstance = cardInstances[iCard];
+                    cardInstances[iCard] = cardInstances[iSwapCard];
+                    cardInstances[iSwapCard] = savedCardInstance;
                 }
             }
         }
@@ -136,5 +140,25 @@ public class DeckBehaviour : MonoBehaviour
         {
             print(string.Format("Didn't find card {0} in deck!", cardToRemove));
         }
+    }
+
+    public void RestoreCard(Transform card)
+    {
+        print(string.Format("Replacing card at index {0}", cards.Length));
+
+        Transform[] newCards = new Transform[cards.Length + 1];
+        Transform[] newCardInstances = new Transform[cards.Length + 1];
+        for(int iCard=0; iCard < cards.Length; iCard++)
+        {
+            newCards[iCard] = cards[iCard];
+            newCardInstances[iCard] = cardInstances[iCard];
+        }
+        // since we don't have the prefab, we'll just use the instantiated object
+        // as a prefab.
+        newCards[cards.Length] = card;
+        newCardInstances[cards.Length] = card;
+
+        cards = newCards;
+        cardInstances = newCardInstances;
     }
 }
