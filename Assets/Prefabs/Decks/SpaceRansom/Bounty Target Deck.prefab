@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4885600746746135090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8013595074126900982}
+  - component: {fileID: 4458402276744038116}
+  m_Layer: 0
+  m_Name: Bounty Target Deck
+  m_TagString: Untagged
+  m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8013595074126900982
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4885600746746135090}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4458402276744038116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4885600746746135090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bff477f9a5db14d3bb07ad96142ab36e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 4670940996012470498, guid: f00b39e01214a4bff86a3310ad85fb72, type: 3}
+  - {fileID: 4551702204904360511, guid: dd8089d11aee94c5b85645bf2544818d, type: 3}
+  - {fileID: 1098822358737597161, guid: 0e8a08be5645647a38c19af3c368c2e5, type: 3}
+  - {fileID: 223481661807389266, guid: 2bec43edf139d461a833c48d5fffa3c8, type: 3}
+  - {fileID: 3419899212145627354, guid: 06d607d7d2eff4843b336998c4ed7716, type: 3}
+  - {fileID: 8099067214976732620, guid: 346816c48b055482097e0ffa6b80ef3e, type: 3}
+  - {fileID: 5462297558570960038, guid: 60b8e791559284cc086e4085967af847, type: 3}
+  - {fileID: 33298713206855250, guid: 079c2b2f08a4442f1a455671fbde6fc6, type: 3}
+  - {fileID: 8222098967758121721, guid: 11301dd52672444dab668defae8bf425, type: 3}
+  - {fileID: 4396840862026104777, guid: 98ddc46762b3e4cf4b8776c4e874fa71, type: 3}
+  - {fileID: 7402977192021843272, guid: 38f145b2eaa1542309bc8b5e3793db29, type: 3}
+  - {fileID: 8967487171092737393, guid: fe1a349673a9b4428a226a6d9f4eae17, type: 3}
+  - {fileID: 5521739472995142234, guid: 9df88ea3d6f494e82bfdfa2023aa3cbe, type: 3}
+  - {fileID: 7776815511080196103, guid: fdc1a96a65631415db473613d69cd29b, type: 3}
+  - {fileID: 4357924031934786643, guid: 73d04ab19c051495ba00490a61ae5269, type: 3}
+  - {fileID: 1295196951817549782, guid: abe294e973cb54c9dab11107adc95170, type: 3}

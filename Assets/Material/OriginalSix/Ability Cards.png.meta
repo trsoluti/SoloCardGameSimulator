@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 716c455a705da46d6ac4469df05f8a2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3374932762870447698
+    second: Ability Repulsor Blast
+  - first:
+      213: 5086920051743763000
+    second: Ability Shield Throw
+  - first:
+      213: 6960748338596299313
+    second: Ability Lightning Strike
+  - first:
+      213: 4173796667545903513
+    second: Ability Hulk Smash
+  - first:
+      213: -5489649883151242110
+    second: Ability Precision Shot
+  - first:
+      213: -8629242036001988364
+    second: Ability Stealth Attack
+  - first:
+      213: -2803399270518369046
+    second: Ability Cards_6
+  - first:
+      213: -4302345070562258608
+    second: Ability Cards_7
+  - first:
+      213: 1370658920565513736
+    second: Ability Cards_8
+  - first:
+      213: 7694448207882372211
+    second: Ability Cards_9
+  - first:
+      213: 3183627714127640894
+    second: Ability Cards_10
+  - first:
+      213: -3465550284734589750
+    second: Ability Cards_11
+  - first:
+      213: 6720421523067648256
+    second: Ability Cards_12
+  - first:
+      213: 8912081596884548337
+    second: Ability Cards_13
+  - first:
+      213: 1043227086735848287
+    second: Ability Cards_14
+  - first:
+      213: 3302762368896398623
+    second: Ability Cards_15
+  - first:
+      213: 5670680550590149263
+    second: Ability Cards_16
+  - first:
+      213: -6043006957435483094
+    second: Ability Cards_17
+  - first:
+      213: 6837219336009429250
+    second: Ability Cards_18
+  - first:
+      213: 5609891969308102408
+    second: Ability Cards_19
+  - first:
+      213: -5987556979224238485
+    second: Ability Cards_20
+  - first:
+      213: -6567233414965459051
+    second: Ability Cards_21
+  - first:
+      213: 1394155781404967762
+    second: Ability Cards_22
+  - first:
+      213: -7208895036526783687
+    second: Ability Cards_23
+  - first:
+      213: -1739157479674437881
+    second: Ability Cards_24
+  - first:
+      213: 6391320643077927929
+    second: Ability Cards_25
+  - first:
+      213: -8730772455232251595
+    second: Ability Cards_26
+  - first:
+      213: -5305806639467588247
+    second: Ability Cards_27
+  - first:
+      213: 6392911103026231287
+    second: Ability Cards_28
+  - first:
+      213: -3534268613850920449
+    second: Ability Cards_29
+  - first:
+      213: 8201364090143049449
+    second: Ability Cards_30
+  - first:
+      213: -1473139154655861303
+    second: Ability Cards_31
+  - first:
+      213: 4398443911589234349
+    second: Ability Cards_32
+  - first:
+      213: 1682126082756693372
+    second: Ability Cards_33
+  - first:
+      213: -85882617078314116
+    second: Ability Cards_34
+  - first:
+      213: 546171049623464000
+    second: Ability Cards_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ability Repulsor Blast
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2258
+        width: 591
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea187488884d921d0800000000000000
+      internalID: -3374932762870447698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability Shield Throw
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2258
+        width: 591
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aaffcd5de589640800000000000000
+      internalID: 5086920051743763000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability Lightning Strike
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2259
+        width: 591
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1324cecfbbb899060800000000000000
+      internalID: 6960748338596299313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability Hulk Smash
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1349
+        width: 591
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99168c594fd4ce930800000000000000
+      internalID: 4173796667545903513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability Precision Shot
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1342
+        width: 591
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c61854488d0d3b0800000000000000
+      internalID: -5489649883151242110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability Stealth Attack
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1342
+        width: 591
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ab338616ce3880800000000000000
+      internalID: -8629242036001988364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

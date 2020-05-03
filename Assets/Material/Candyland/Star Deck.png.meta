@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: a9e4f3520600548178e6faf80fc0b80b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2848017926147349084
+    second: Star Deck_0
+  - first:
+      213: -50858784719315001
+    second: Star Deck_1
+  - first:
+      213: 4671933332401927551
+    second: Star Deck_2
+  - first:
+      213: 424328222483800494
+    second: Star Deck_3
+  - first:
+      213: 737663870046642067
+    second: Star Deck_4
+  - first:
+      213: 516096593875283001
+    second: Star Deck_5
+  - first:
+      213: -2146293832300918406
+    second: Star Deck_6
+  - first:
+      213: 7221677483655450575
+    second: Star Deck_7
+  - first:
+      213: 6411045601123129377
+    second: Star Deck_8
+  - first:
+      213: -4365139848256446950
+    second: Star Deck_9
+  - first:
+      213: -8007494806831969414
+    second: Star Deck_10
+  - first:
+      213: 2276938582898546304
+    second: Star Deck_11
+  - first:
+      213: -2904069427299860290
+    second: Star Deck_12
+  - first:
+      213: 8560917141593551970
+    second: Star Deck_13
+  - first:
+      213: -1549167121971666292
+    second: Star Deck_14
+  - first:
+      213: 7256444048595866324
+    second: Star Deck_15
+  - first:
+      213: 3354913041422159912
+    second: Star Deck_16
+  - first:
+      213: 2243571628874278011
+    second: Star Deck_17
+  - first:
+      213: 3966019514919731340
+    second: Star Deck_18
+  - first:
+      213: 4372534077058073795
+    second: Star Deck_19
+  - first:
+      213: 5663644860792828187
+    second: Star Deck_20
+  - first:
+      213: -6165336876023001968
+    second: Star Deck_21
+  - first:
+      213: 8043180377533722147
+    second: Star Deck_22
+  - first:
+      213: 7760261613644366934
+    second: Star Deck_23
+  - first:
+      213: -8591146191789704876
+    second: Star Deck_24
+  - first:
+      213: -3901649980517606961
+    second: Star Deck_25
+  - first:
+      213: 1622055336536065982
+    second: Star Deck_26
+  - first:
+      213: -7558251084023470248
+    second: Star Deck_27
+  - first:
+      213: -2889658051198493812
+    second: Star Deck_28
+  - first:
+      213: 5891939075539212829
+    second: Star Deck_29
+  - first:
+      213: -5567380910099222594
+    second: Star Deck_30
+  - first:
+      213: -8917905401919459078
+    second: Star Deck_31
+  - first:
+      213: 890337550570533335
+    second: Star Deck_32
+  - first:
+      213: 6805752410544273363
+    second: Star Deck_33
+  - first:
+      213: 7294474934115987395
+    second: Star Deck_34
+  - first:
+      213: 7846629406800746762
+    second: Star Deck_35
+  - first:
+      213: -84140046537787855
+    second: Star Deck_36
+  - first:
+      213: 7575153684836398789
+    second: Star Deck_37
+  - first:
+      213: 6757240599371889829
+    second: Star Deck_38
+  - first:
+      213: -1007608278642008731
+    second: Star Deck_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

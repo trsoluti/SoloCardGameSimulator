@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 14e28d0065a584c6a92a806c62cd7f0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6987938852954317772
+    second: SS 2-9 (Ammo)_0
+  - first:
+      213: 6700320386764694629
+    second: SS 2-9 (Ammo)_1
+  - first:
+      213: -7232185394867573615
+    second: SS 2-9 (Ammo)_2
+  - first:
+      213: -658866307412838370
+    second: SS 2-9 (Ammo)_3
+  - first:
+      213: -1525537669580714425
+    second: SS 2-9 (Ammo)_4
+  - first:
+      213: -7311176319149872513
+    second: SS 2-9 (Ammo)_5
+  - first:
+      213: 324763268936196132
+    second: SS 2-9 (Ammo)_6
+  - first:
+      213: 6741913118195259383
+    second: SS 2-9 (Ammo)_7
+  - first:
+      213: 8971380356536885336
+    second: SS 2-9 (Ammo)_8
+  - first:
+      213: 7843902961084559037
+    second: SS 2-9 (Ammo)_9
+  - first:
+      213: 6099937652767437427
+    second: SS 2-9 (Ammo)_10
+  - first:
+      213: -4938325846170967345
+    second: SS 2-9 (Ammo)_11
+  - first:
+      213: 7888888655306581610
+    second: SS 2-9 (Ammo)_12
+  - first:
+      213: -8318355452949960754
+    second: SS 2-9 (Ammo)_13
+  - first:
+      213: -6127923201285520056
+    second: SS 2-9 (Ammo)_14
+  - first:
+      213: 8589368824417123037
+    second: SS 2-9 (Ammo)_15
+  - first:
+      213: 3932568142342378647
+    second: SS 2-9 (Ammo)_16
+  - first:
+      213: 9197348700607758248
+    second: SS 2-9 (Ammo)_17
+  - first:
+      213: -4479782249502031796
+    second: SS 2-9 (Ammo)_18
+  - first:
+      213: 5009526407554832707
+    second: SS 2-9 (Ammo)_19
+  - first:
+      213: -3827056367068616183
+    second: SS 2-9 (Ammo)_20
+  - first:
+      213: -1756030009119092257
+    second: SS 2-9 (Ammo)_21
+  - first:
+      213: -3072862111948616468
+    second: SS 2-9 (Ammo)_22
+  - first:
+      213: -4512688546352939146
+    second: SS 2-9 (Ammo)_23
+  - first:
+      213: 6681660477872408196
+    second: SS 2-9 (Ammo)_24
+  - first:
+      213: 5316915539437156856
+    second: SS 2-9 (Ammo)_25
+  - first:
+      213: 6269856857509125965
+    second: SS 2-9 (Ammo)_26
+  - first:
+      213: 327922183122896944
+    second: SS 2-9 (Ammo)_27
+  - first:
+      213: 1429900375116692845
+    second: SS 2-9 (Ammo)_28
+  - first:
+      213: -3848150759669846784
+    second: SS 2-9 (Ammo)_29
+  - first:
+      213: 6324049844361149452
+    second: SS 2-9 (Ammo)_30
+  - first:
+      213: 8218748323637267532
+    second: SS 2-9 (Ammo)_31
+  - first:
+      213: -2763330124861600718
+    second: SS 2-9 (Ammo)_32
+  - first:
+      213: -8113496170624410094
+    second: SS 2-9 (Ammo)_33
+  - first:
+      213: -1274902158030520810
+    second: SS 2-9 (Ammo)_34
+  - first:
+      213: -5751176707359212735
+    second: SS 2-9 (Ammo)_35
+  - first:
+      213: 5134355861392669731
+    second: SS 2-9 (Ammo)_36
+  - first:
+      213: -1291292335620746831
+    second: SS 2-9 (Ammo)_37
+  - first:
+      213: 3913984532281027729
+    second: SS 2-9 (Ammo)_38
+  - first:
+      213: -9095416169719248955
+    second: SS 2-9 (Ammo)_39
+  - first:
+      213: 8860160963934940223
+    second: SS 2-9 (Ammo)_40
+  - first:
+      213: -1200246690560437051
+    second: SS 2-9 (Ammo)_41
+  - first:
+      213: -6240554611383063829
+    second: SS 2-9 (Ammo)_42
+  - first:
+      213: -1459592124410549653
+    second: SS 2-9 (Ammo)_43
+  - first:
+      213: -4753439515209996045
+    second: SS 2-9 (Ammo)_44
+  - first:
+      213: -5557891915616211586
+    second: SS 2-9 (Ammo)_45
+  - first:
+      213: 7512729234264320009
+    second: SS 2-9 (Ammo)_46
+  - first:
+      213: -4304344829299072049
+    second: SS 2-9 (Ammo)_47
+  - first:
+      213: 6601821908442640362
+    second: SS 2-9 (Ammo)_48
+  - first:
+      213: 5680999448188897603
+    second: SS 2-9 (Ammo)_49
+  - first:
+      213: 1014826834879417958
+    second: SS 2-9 (Ammo)_50
+  - first:
+      213: 2420101509486595720
+    second: SS 2-9 (Ammo)_51
+  - first:
+      213: 1099573090643165065
+    second: SS 2-9 (Ammo)_52
+  - first:
+      213: -7952986172279227281
+    second: SS 2-9 (Ammo)_53
+  - first:
+      213: -7231291772715080859
+    second: SS 2-9 (Ammo)_54
+  - first:
+      213: 2251190253152321073
+    second: SS 2-9 (Ammo)_55
+  - first:
+      213: -715848852490972278
+    second: SS 2-9 (Ammo)_56
+  - first:
+      213: -6102349355322779679
+    second: SS 2-9 (Ammo)_57
+  - first:
+      213: -2658449516575862114
+    second: SS 2-9 (Ammo)_58
+  - first:
+      213: -731306298757654951
+    second: SS 2-9 (Ammo)_59
+  - first:
+      213: 1377245594282812318
+    second: SS 2-9 (Ammo)_60
+  - first:
+      213: 3950427135495451548
+    second: SS 2-9 (Ammo)_61
+  - first:
+      213: 5429653356533575402
+    second: SS 2-9 (Ammo)_62
+  - first:
+      213: 3835917105840947431
+    second: SS 2-9 (Ammo)_63
+  - first:
+      213: -5954706233935493406
+    second: SS 2-9 (Ammo)_64
+  - first:
+      213: -1562652585149542082
+    second: SS 2-9 (Ammo)_65
+  - first:
+      213: 9095871544555739468
+    second: SS 2-9 (Ammo)_66
+  - first:
+      213: 6759945649705457126
+    second: SS 2-9 (Ammo)_67
+  - first:
+      213: 5536214421462033227
+    second: SS 2-9 (Ammo)_68
+  - first:
+      213: 6243432617899965602
+    second: SS 2-9 (Ammo)_69
+  - first:
+      213: 5996875627646611359
+    second: SS 2-9 (Ammo)_70
+  - first:
+      213: -8948860111976909588
+    second: SS 2-9 (Ammo)_71
+  - first:
+      213: -754210208061962438
+    second: SS 2-9 (Ammo)_72
+  - first:
+      213: -5231034355898413609
+    second: SS 2-9 (Ammo)_73
+  - first:
+      213: -7157716528677608861
+    second: SS 2-9 (Ammo)_74
+  - first:
+      213: -4549076163457173592
+    second: SS 2-9 (Ammo)_75
+  - first:
+      213: -6413434379991886453
+    second: SS 2-9 (Ammo)_76
+  - first:
+      213: -4990282762117355679
+    second: SS 2-9 (Ammo)_77
+  - first:
+      213: -1213157448125023692
+    second: SS 2-9 (Ammo)_78
+  - first:
+      213: -14566033644936997
+    second: SS 2-9 (Ammo)_79
+  - first:
+      213: -5416810231348822915
+    second: SS 2-9 (Ammo)_80
+  - first:
+      213: 1960470068285820888
+    second: SS 2-9 (Ammo)_81
+  - first:
+      213: -1093603020532146334
+    second: SS 2-9 (Ammo)_82
+  - first:
+      213: -8356397927739056949
+    second: SS 2-9 (Ammo)_83
+  - first:
+      213: 8170547991197497115
+    second: SS 2-9 (Ammo)_84
+  - first:
+      213: -1179920002839140323
+    second: SS 2-9 (Ammo)_85
+  - first:
+      213: 5039323744530815595
+    second: SS 2-9 (Ammo)_86
+  - first:
+      213: -7991807486705240820
+    second: SS 2-9 (Ammo)_87
+  - first:
+      213: -5237635458773623315
+    second: SS 2-9 (Ammo)_88
+  - first:
+      213: -5837042264058000462
+    second: SS 2-9 (Ammo)_89
+  - first:
+      213: 9181377097746823274
+    second: SS 2-9 (Ammo)_90
+  - first:
+      213: -6825673070316106053
+    second: SS 2-9 (Ammo)_91
+  - first:
+      213: -3847435852454316528
+    second: SS 2-9 (Ammo)_92
+  - first:
+      213: -8023917513430436290
+    second: SS 2-9 (Ammo)_93
+  - first:
+      213: 2534386008259587535
+    second: SS 2-9 (Ammo)_94
+  - first:
+      213: 6116119157569617370
+    second: SS 2-9 (Ammo)_95
+  - first:
+      213: -3747094289925475356
+    second: SS 2-9 (Ammo)_96
+  - first:
+      213: 2603493913885712087
+    second: SS 2-9 (Ammo)_97
+  - first:
+      213: -4389703092467049462
+    second: SS 2-9 (Ammo)_98
+  - first:
+      213: 5874144097233508579
+    second: SS 2-9 (Ammo)_99
+  - first:
+      213: 5699394832978468095
+    second: SS 2-9 (Ammo)_100
+  - first:
+      213: 744099707246132599
+    second: SS 2-9 (Ammo)_101
+  - first:
+      213: 6016170509568753723
+    second: SS 2-9 (Ammo)_102
+  - first:
+      213: 8409299086574715475
+    second: SS 2-9 (Ammo)_103
+  - first:
+      213: -8649744191313285920
+    second: SS 2-9 (Ammo)_104
+  - first:
+      213: -6366606844674960608
+    second: SS 2-9 (Ammo)_105
+  - first:
+      213: 7920519194326259463
+    second: SS 2-9 (Ammo)_106
+  - first:
+      213: 4735395538235159890
+    second: SS 2-9 (Ammo)_107
+  - first:
+      213: -5028613120286894486
+    second: SS 2-9 (Ammo)_108
+  - first:
+      213: 7149209115475921103
+    second: SS 2-9 (Ammo)_109
+  - first:
+      213: -3360681032073814448
+    second: SS 2-9 (Ammo)_110
+  - first:
+      213: 4619750447286242432
+    second: SS 2-9 (Ammo)_111
+  - first:
+      213: -3412246184685465777
+    second: SS 2-9 (Ammo)_112
+  - first:
+      213: -4610586817296812910
+    second: SS 2-9 (Ammo)_113
+  - first:
+      213: -1404092772758247026
+    second: SS 2-9 (Ammo)_114
+  - first:
+      213: 529159758682121830
+    second: SS 2-9 (Ammo)_115
+  - first:
+      213: -1867302371838288687
+    second: SS 2-9 (Ammo)_116
+  - first:
+      213: 818380562359203644
+    second: SS 2-9 (Ammo)_117
+  - first:
+      213: -8437656289030551705
+    second: SS 2-9 (Ammo)_118
+  - first:
+      213: 2435874197857810238
+    second: SS 2-9 (Ammo)_119
+  - first:
+      213: 6836152494958710021
+    second: SS 2-9 (Ammo)_120
+  - first:
+      213: 5876582663347210301
+    second: SS 2-9 (Ammo)_121
+  - first:
+      213: -4347599576923543238
+    second: SS 2-9 (Ammo)_122
+  - first:
+      213: -7077213746251713065
+    second: SS 2-9 (Ammo)_123
+  - first:
+      213: 6902371290554967495
+    second: SS 2-9 (Ammo)_124
+  - first:
+      213: -7404370460947325436
+    second: SS 2-9 (Ammo)_125
+  - first:
+      213: -7686263319278475542
+    second: SS 2-9 (Ammo)_126
+  - first:
+      213: -6581275763823576060
+    second: SS 2-9 (Ammo)_127
+  - first:
+      213: 6996438485753178584
+    second: SS 2-9 (Ammo)_128
+  - first:
+      213: 3119646990937558177
+    second: SS 2-9 (Ammo)_129
+  - first:
+      213: -6632840833870199313
+    second: SS 2-9 (Ammo)_130
+  - first:
+      213: -1894988525443394445
+    second: SS 2-9 (Ammo)_131
+  - first:
+      213: 5758568882675273610
+    second: SS 2-9 (Ammo)_132
+  - first:
+      213: -1053364318485241014
+    second: SS 2-9 (Ammo)_133
+  - first:
+      213: 4787054505283082553
+    second: SS 2-9 (Ammo)_134
+  - first:
+      213: -8805948539161693184
+    second: SS 2-9 (Ammo)_135
+  - first:
+      213: -7356096693559122848
+    second: SS 2-9 (Ammo)_136
+  - first:
+      213: 6875132431095470776
+    second: SS 2-9 (Ammo)_137
+  - first:
+      213: 2967618010458803337
+    second: SS 2-9 (Ammo)_138
+  - first:
+      213: -855092238218477137
+    second: SS 2-9 (Ammo)_139
+  - first:
+      213: 3342328821393332832
+    second: SS 2-9 (Ammo)_140
+  - first:
+      213: -7365372948512655320
+    second: SS 2-9 (Ammo)_141
+  - first:
+      213: 6692937105213075976
+    second: SS 2-9 (Ammo)_142
+  - first:
+      213: -3741618094372862016
+    second: SS 2-9 (Ammo)_143
+  - first:
+      213: -3839957779751998586
+    second: SS 2-9 (Ammo)_144
+  - first:
+      213: -6150085582108008990
+    second: SS 2-9 (Ammo)_145
+  - first:
+      213: 4482343926599221763
+    second: SS 2-9 (Ammo)_146
+  - first:
+      213: 8714909776470276938
+    second: SS 2-9 (Ammo)_147
+  - first:
+      213: 2291973991713502745
+    second: SS 2-9 (Ammo)_148
+  - first:
+      213: -7477586960840878347
+    second: SS 2-9 (Ammo)_149
+  - first:
+      213: -7540393668287034808
+    second: SS 2-9 (Ammo)_150
+  - first:
+      213: 3733756703850644508
+    second: SS 2-9 (Ammo)_151
+  - first:
+      213: 1761809484336232699
+    second: SS 2-9 (Ammo)_152
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS 2-9 (Ammo)_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2655
+        width: 1047
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc32e72fc552af060800000000000000
+      internalID: 6987938852954317772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS 2-9 (Ammo)_1
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2655
+        width: 1047
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ea6654e15cfc50800000000000000
+      internalID: 6700320386764694629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS 2-9 (Ammo)_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1828
+        width: 1047
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c662d73bd12ab90800000000000000
+      internalID: -7232185394867573615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS 2-9 (Ammo)_3
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1828
+        width: 1047
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e183f20959c3bd6f0800000000000000
+      internalID: -658866307412838370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS 2-9 (Ammo)_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1001
+        width: 1047
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0a29729334dae0800000000000000
+      internalID: -1525537669580714425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS 2-9 (Ammo)_5
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1001
+        width: 1047
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ae2debfdb798a90800000000000000
+      internalID: -7311176319149872513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS 2-9 (Ammo)_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 174
+        width: 1047
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206901f87ac18400800000000000000
+      internalID: 324763268936196132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS 2-9 (Ammo)_7
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 174
+        width: 1047
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f71394c246109d50800000000000000
+      internalID: 6741913118195259383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

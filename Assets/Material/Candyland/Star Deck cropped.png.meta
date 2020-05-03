@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 28b21711e372d46ebb976735ed93f446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5890580518830447293
+    second: Star Deck cropped_0
+  - first:
+      213: 6776545811018256387
+    second: Star Deck cropped_1
+  - first:
+      213: 8457407644333407231
+    second: Star Deck cropped_2
+  - first:
+      213: 6812689666305299250
+    second: Star Deck cropped_3
+  - first:
+      213: 6077818994136020470
+    second: Star Deck cropped_4
+  - first:
+      213: 7305961099953513051
+    second: Star Deck cropped_5
+  - first:
+      213: 6554676760604413385
+    second: Star Deck cropped_6
+  - first:
+      213: -4344054120200132727
+    second: Star Deck cropped_7
+  - first:
+      213: -339374489720030348
+    second: Star Deck cropped_8
+  - first:
+      213: 1413840062615902144
+    second: Star Deck cropped_9
+  - first:
+      213: 2094739380023931709
+    second: Star Deck cropped_10
+  - first:
+      213: -4488403688103835522
+    second: Star Deck cropped_11
+  - first:
+      213: -1855410193124208115
+    second: Star Deck cropped_12
+  - first:
+      213: -7561978844621557719
+    second: Star Deck cropped_13
+  - first:
+      213: -8047879709493718607
+    second: Star Deck cropped_14
+  - first:
+      213: 565481261320061305
+    second: Star Deck cropped_15
+  - first:
+      213: 1519983957312456871
+    second: Star Deck cropped_16
+  - first:
+      213: 3590137251770582227
+    second: Star Deck cropped_17
+  - first:
+      213: -6464450044900286995
+    second: Star Deck cropped_18
+  - first:
+      213: -5819769419766474018
+    second: Star Deck cropped_19
+  - first:
+      213: 7884771856073060958
+    second: Star Deck cropped_20
+  - first:
+      213: -2813818477761306015
+    second: Star Deck cropped_21
+  - first:
+      213: -4202973943134985986
+    second: Star Deck cropped_22
+  - first:
+      213: 4711975071459512531
+    second: Star Deck cropped_23
+  - first:
+      213: 5656391440949192985
+    second: Star Deck cropped_24
+  - first:
+      213: 9005906245426226410
+    second: Star Deck cropped_25
+  - first:
+      213: -3931204443462593332
+    second: Star Deck cropped_26
+  - first:
+      213: -8400794661283921646
+    second: Star Deck cropped_27
+  - first:
+      213: -7064629582553775772
+    second: Star Deck cropped_28
+  - first:
+      213: 4753494410236477915
+    second: Star Deck cropped_29
+  - first:
+      213: -6105323639488731292
+    second: Star Deck cropped_30
+  - first:
+      213: 7132173551064996768
+    second: Star Deck cropped_31
+  - first:
+      213: -6383305376984844641
+    second: Star Deck cropped_32
+  - first:
+      213: -467833650285642858
+    second: Star Deck cropped_33
+  - first:
+      213: -3125157245075607968
+    second: Star Deck cropped_34
+  - first:
+      213: 1138856392428724557
+    second: Star Deck cropped_35
+  - first:
+      213: -604403444986158102
+    second: Star Deck cropped_36
+  - first:
+      213: 3417147062669867629
+    second: Star Deck cropped_37
+  - first:
+      213: 5628244573744401963
+    second: Star Deck cropped_38
+  - first:
+      213: -7211046319676444373
+    second: Star Deck cropped_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star Deck cropped_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba99b1b5cb8fb150800000000000000
+      internalID: 5890580518830447293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 572.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30097ede2802b0e50800000000000000
+      internalID: 6776545811018256387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 572.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb7a29717fbe5570800000000000000
+      internalID: 8457407644333407231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 572.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2331a1508298b8e50800000000000000
+      internalID: 6812689666305299250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 572.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5799a6c20c85450800000000000000
+      internalID: 6077818994136020470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b522d8969ecf36560800000000000000
+      internalID: 7305961099953513051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 491.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd855d19c3e6fa50800000000000000
+      internalID: 6554676760604413385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 491.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98726602bc1d6b3c0800000000000000
+      internalID: -4344054120200132727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 491.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b786e13bc4a4bf0800000000000000
+      internalID: -339374489720030348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 491.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7df6dcb08fe9310800000000000000
+      internalID: 1413840062615902144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 109
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3339532e52021d10800000000000000
+      internalID: 2094739380023931709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 410.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78840250acf5b1c0800000000000000
+      internalID: -4488403688103835522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 410.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02513e72424046e0800000000000000
+      internalID: -1855410193124208115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 410.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920305f4e447e0790800000000000000
+      internalID: -7561978844621557719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 410.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b19d803b00305090800000000000000
+      internalID: -8047879709493718607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 109
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9714f1c063ef8d700800000000000000
+      internalID: 565481261320061305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 329.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c6ef1b51181510800000000000000
+      internalID: 1519983957312456871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 329.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4cea22fcab2d130800000000000000
+      internalID: 3590137251770582227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 329.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedd57d2fe8a946a0800000000000000
+      internalID: -6464450044900286995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 329.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda53241c860c3fa0800000000000000
+      internalID: -5819769419766474018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 109
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e527b305a365c6d60800000000000000
+      internalID: 7884771856073060958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 248.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1626b92b00f43f8d0800000000000000
+      internalID: -2813818477761306015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 248.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0673f87790ca5c0800000000000000
+      internalID: -4202973943134985986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 248.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d017d4cc5c446140800000000000000
+      internalID: 4711975071459512531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 248.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9192654fb0a8f7e40800000000000000
+      internalID: 5656391440949192985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 109
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae42a1fc3086bfc70800000000000000
+      internalID: 9005906245426226410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 167.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc499f7136e8179c0800000000000000
+      internalID: -3931204443462593332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 167.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2118c2fc3c16a6b80800000000000000
+      internalID: -8400794661283921646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 167.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4618a2e13d465fd90800000000000000
+      internalID: -7064629582553775772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 167.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd143f32bfdc7f140800000000000000
+      internalID: 4753494410236477915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 109
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467aa7d4f78854ba0800000000000000
+      internalID: -6105323639488731292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 86.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5aab8e029af260800000000000000
+      internalID: 7132173551064996768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 86.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f963aff6491f967a0800000000000000
+      internalID: -6383305376984844641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 86.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bffb416cbe189f0800000000000000
+      internalID: -467833650285642858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 86.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ea70c1b0631a4d0800000000000000
+      internalID: -3125157245075607968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 109
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a5e0ead70ecf00800000000000000
+      internalID: 1138856392428724557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e390e44abc97f0800000000000000
+      internalID: -604403444986158102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6af4bf06252c6f20800000000000000
+      internalID: 3417147062669867629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e0e0fbe9a8b1e40800000000000000
+      internalID: 5628244573744401963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Deck cropped_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 5.25
+        width: 108.6
+        height: 81.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b213cc8f3973deb90800000000000000
+      internalID: -7211046319676444373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

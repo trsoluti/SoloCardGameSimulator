@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3522191712202004991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6280245212465229349}
+  - component: {fileID: 2682165923204005131}
+  m_Layer: 0
+  m_Name: Infinity Stone Deck
+  m_TagString: Untagged
+  m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6280245212465229349
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3522191712202004991}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.1372025, y: -1.5077269, z: -3.4295514}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2682165923204005131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3522191712202004991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bff477f9a5db14d3bb07ad96142ab36e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 1346554558146257946, guid: f8e49e4593b7a441ab0075157fcbb4be, type: 3}
+  - {fileID: 5358536326887140763, guid: f44aa55846b3c4436a32005552d5e386, type: 3}
+  - {fileID: 7546798363740298014, guid: 07b8ca6ae7ca74606b0155847f085ccd, type: 3}
+  - {fileID: 2330660337507676386, guid: 7ed936fd42d1a4bd39081a70818a45b5, type: 3}
+  - {fileID: 3485601278733991171, guid: cd4158b69a2b24b09a5c80bcb9d4ce19, type: 3}
+  - {fileID: 5170768057365684372, guid: e46b23ef543a742f7b922bc8b78494fc, type: 3}

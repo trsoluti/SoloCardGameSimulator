@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3216848449779754409
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4820224118610961791}
+  - component: {fileID: 2299973131594847513}
+  m_Layer: 0
+  m_Name: Equipment_Deck
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4820224118610961791
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3216848449779754409}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2299973131594847513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3216848449779754409}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bff477f9a5db14d3bb07ad96142ab36e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 3260256265509762310, guid: 3a82207cde0114978af90faf116a0d70, type: 3}
+  - {fileID: 9149079374611824708, guid: f5b35f97ce1684380adf98323b0a0ef9, type: 3}
+  - {fileID: 265480646892620013, guid: 1bdd7de9df6e14b52a0cf6cf26aaf72b, type: 3}
+  - {fileID: 8355647377044190957, guid: 314b82c49332e4493b010b08dd9bc7c3, type: 3}
+  - {fileID: 5260632477591728381, guid: a9fa4d5f8e11846c7a9da3ec5601c65a, type: 3}
+  - {fileID: 1810068485263287787, guid: 8f19ffdba887a411f96999a77df79fe5, type: 3}
+  - {fileID: 2115492921885071910, guid: 639c60433e2144ac2ae29fea6d743ce6, type: 3}
+  - {fileID: 7108923729331462652, guid: 547afc606924f4ac09a6aa4b3046a223, type: 3}
+  - {fileID: 5316173391415275020, guid: 19cda9029de8c4c23a9fca05d2928919, type: 3}
+  - {fileID: 6420739746611481495, guid: e7e3c76522b5b4e33afb09a396406592, type: 3}
+  - {fileID: 7493756299845761010, guid: e23873351c71a41509bbe1f4be621052, type: 3}
