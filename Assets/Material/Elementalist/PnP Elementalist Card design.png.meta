@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 940d2a0116b69419e879e219e2faff04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2681852120134402560
+    second: Elementalist Earth
+  - first:
+      213: 4105241819229257199
+    second: Elementalist Water
+  - first:
+      213: 4577724723935630092
+    second: Elementalist Fire
+  - first:
+      213: 6595920203454076449
+    second: Elementalist Kataracts
+  - first:
+      213: 8457234070717122762
+    second: Elementalist Back
+  - first:
+      213: -586771421478875053
+    second: Elementalist Air
+  - first:
+      213: 8146300959619708059
+    second: PnP Elementalist Card design_6
+  - first:
+      213: -2456116689050566198
+    second: PnP Elementalist Card design_7
+  - first:
+      213: -3307470736062104129
+    second: PnP Elementalist Card design_8
+  - first:
+      213: 517670961836719246
+    second: PnP Elementalist Card design_9
+  - first:
+      213: 5668562731734033759
+    second: PnP Elementalist Card design_10
+  - first:
+      213: 431046304610626907
+    second: PnP Elementalist Card design_11
+  - first:
+      213: 4551986193314077812
+    second: PnP Elementalist Card design_12
+  - first:
+      213: -5655800709220665299
+    second: PnP Elementalist Card design_13
+  - first:
+      213: 8082749956762150835
+    second: PnP Elementalist Card design_14
+  - first:
+      213: 8391607098399177900
+    second: PnP Elementalist Card design_15
+  - first:
+      213: 1015841930552008916
+    second: PnP Elementalist Card design_16
+  - first:
+      213: -2844299883543900722
+    second: PnP Elementalist Card design_17
+  - first:
+      213: 4137538663547609216
+    second: PnP Elementalist Card design_18
+  - first:
+      213: -8727886030245312277
+    second: PnP Elementalist Card design_19
+  - first:
+      213: 877170226751269661
+    second: PnP Elementalist Card design_20
+  - first:
+      213: -1786309235610893928
+    second: PnP Elementalist Card design_21
+  - first:
+      213: 4331356442394308984
+    second: PnP Elementalist Card design_22
+  - first:
+      213: -8798492146642305348
+    second: PnP Elementalist Card design_23
+  - first:
+      213: 7959582810431530205
+    second: PnP Elementalist Card design_24
+  - first:
+      213: 8852099368084252677
+    second: PnP Elementalist Card design_25
+  - first:
+      213: -5625298868420557475
+    second: PnP Elementalist Card design_26
+  - first:
+      213: -6601520597214396822
+    second: PnP Elementalist Card design_27
+  - first:
+      213: 916740062677820989
+    second: PnP Elementalist Card design_28
+  - first:
+      213: 4990080831780154832
+    second: PnP Elementalist Card design_29
+  - first:
+      213: 2029198976880690977
+    second: PnP Elementalist Card design_30
+  - first:
+      213: -8177390302612208642
+    second: PnP Elementalist Card design_31
+  - first:
+      213: -4297542121391774400
+    second: PnP Elementalist Card design_32
+  - first:
+      213: -4064875449584315763
+    second: PnP Elementalist Card design_33
+  - first:
+      213: 7489470142211227450
+    second: PnP Elementalist Card design_34
+  - first:
+      213: 333079755978439393
+    second: PnP Elementalist Card design_35
+  - first:
+      213: -6784171281999382868
+    second: PnP Elementalist Card design_36
+  - first:
+      213: -295252442293182721
+    second: PnP Elementalist Card design_37
+  - first:
+      213: 3463078130571041540
+    second: PnP Elementalist Card design_38
+  - first:
+      213: -6767306314551729936
+    second: PnP Elementalist Card design_39
+  - first:
+      213: -1533178255612896685
+    second: PnP Elementalist Card design_40
+  - first:
+      213: 4294511436874618254
+    second: PnP Elementalist Card design_41
+  - first:
+      213: 4421471164434783590
+    second: PnP Elementalist Card design_42
+  - first:
+      213: -446229440833512078
+    second: PnP Elementalist Card design_43
+  - first:
+      213: 7618594099347464372
+    second: PnP Elementalist Card design_44
+  - first:
+      213: 6500700812843975810
+    second: PnP Elementalist Card design_45
+  - first:
+      213: -3499266748091450188
+    second: PnP Elementalist Card design_46
+  - first:
+      213: -5836414495950632605
+    second: PnP Elementalist Card design_47
+  - first:
+      213: -614597811133266893
+    second: PnP Elementalist Card design_48
+  - first:
+      213: -1141585832178140815
+    second: PnP Elementalist Card design_49
+  - first:
+      213: 600268073945908758
+    second: PnP Elementalist Card design_50
+  - first:
+      213: -8452243781995975384
+    second: PnP Elementalist Card design_51
+  - first:
+      213: 5235295562422438539
+    second: PnP Elementalist Card design_52
+  - first:
+      213: -8420082332687004759
+    second: PnP Elementalist Card design_53
+  - first:
+      213: -8158175034580491400
+    second: PnP Elementalist Card design_54
+  - first:
+      213: 8204567023039336156
+    second: PnP Elementalist Card design_55
+  - first:
+      213: -1298987955737005139
+    second: PnP Elementalist Card design_56
+  - first:
+      213: -6307283453240125192
+    second: PnP Elementalist Card design_57
+  - first:
+      213: -6929108433298663420
+    second: PnP Elementalist Card design_58
+  - first:
+      213: -3240111703191561717
+    second: PnP Elementalist Card design_59
+  - first:
+      213: 3811163621653313826
+    second: PnP Elementalist Card design_60
+  - first:
+      213: 5130247856136244017
+    second: PnP Elementalist Card design_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elementalist Earth
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2445
+        width: 708
+        height: 1063
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb24fa4b528cad0800000000000000
+      internalID: -2681852120134402560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist Water
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2445
+        width: 708
+        height: 1063
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedfc302fafb8f830800000000000000
+      internalID: 4105241819229257199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist Fire
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 2445
+        width: 694
+        height: 1063
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d4b1f168578f30800000000000000
+      internalID: 4577724723935630092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist Kataracts
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1382
+        width: 708
+        height: 1063
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d3b57a7a698b50800000000000000
+      internalID: 6595920203454076449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist Back
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1381
+        width: 708
+        height: 1063
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8cc6734912e5570800000000000000
+      internalID: 8457234070717122762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist Air
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1380
+        width: 708
+        height: 1063
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3509662408e5bd7f0800000000000000
+      internalID: -586771421478875053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
