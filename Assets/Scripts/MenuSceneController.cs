@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿//  Copyright © 2020 TR Solutions Pte. Ltd.
+//  Licensed under Apache 2.0 and MIT
+//  See appropriate LICENCE files for details.
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
