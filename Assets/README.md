@@ -17,9 +17,11 @@ Use Unity Hub to point to that location.
 
 Depending on your operating system, you may need to update the build target. Accept the request.
 
-Use Unity to run the game
+Use Unity to run the game.
 
 ## How to interact with the game
+
+To move cards and tokens, press down the mouse over the item and drag. Lifting the mouse will drop it.
 
 To deal a card from the deck, click on the deck and drag. The "top" card will be dealt and will move with the mouse.
 
@@ -69,3 +71,4 @@ When all this is done, you can lay out the board and away you go!
 - Have some way to track a deck when it runs out, so we can put cards into an empty deck.
 - Refactor the movement code, as it's repeated almost exactly between Token and Card.
 - Add a "do you want to exit" confirmed return to the menu screen when the user pressed Escape.
+- Change "f" to single-click, move to long-click, return/shuffle to double-click.
