@@ -4,5 +4,38 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 7bec0fe6562d5474e9176937b374405a
+  - enabled: 1
+    path: Assets/Scenes/Candyland.unity
+    guid: 033284d0ce3eb45d2a3a4b36fc772510
+  - enabled: 1
+    path: Assets/Scenes/DoofMRI.unity
+    guid: 6801b60eff110442fb79486b6bfeb22c
+  - enabled: 1
+    path: Assets/Scenes/Elementalist.unity
+    guid: 52a476961f07541c78ff996357225da7
+  - enabled: 1
+    path: Assets/Scenes/GoodKnights.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/OneLongBattle.unity
+    guid: 59cbb23ec5485479796af8e0ab892da0
+  - enabled: 1
+    path: Assets/Scenes/OrderUp.unity
+    guid: 6e418b856141648a69f773f2de7f60db
+  - enabled: 1
+    path: Assets/Scenes/OriginalSix.unity
+    guid: 541a5e9ce3f39408c9fc793876f9f340
+  - enabled: 1
+    path: Assets/Scenes/SaveTheVillage.unity
+    guid: f7b096634eb4d4d7fbdcc220618526a1
+  - enabled: 1
+    path: Assets/Scenes/SpaceRansom.unity
+    guid: 26e967fd90f194b0b98f4f03640e8e31
+  - enabled: 1
+    path: Assets/Scenes/UnforseenConsequences.unity
+    guid: 0f8c2fcb7b9a04871b8c485c96fd3e15
   m_configObjects: {}

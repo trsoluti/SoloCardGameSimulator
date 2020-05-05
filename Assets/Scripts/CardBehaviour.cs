@@ -36,8 +36,9 @@ public class CardBehaviour : MonoBehaviour
     public SpriteRenderer front;
     public SpriteRenderer back;
     public bool flippedOver;
-    private int orderInLayer;
+
     private int currentLayerID;
+    private int currentSortingOrder;
     private int defaultLayerID;
 
     // private SpriteRenderer myRenderer;
@@ -50,7 +51,7 @@ public class CardBehaviour : MonoBehaviour
         // this.myRenderer = this.GetComponent<SpriteRenderer>();
         this.myCollider = this.GetComponent<Collider2D>();
         this.mouseOffset = new OptionalVector2(); // i.e. not valid
-        this.orderInLayer = front.sortingOrder;
+        this.currentSortingOrder = front.sortingOrder;
         this.currentLayerID = front.sortingLayerID;
         this.defaultLayerID = this.currentLayerID;
 
@@ -74,10 +75,9 @@ public class CardBehaviour : MonoBehaviour
             {
                 this.StartDrag(mousePos);
             }
-        } else if (Input.GetMouseButtonUp(0))
+        } else if (Input.GetMouseButtonUp(0) && this.mouseOffset.IsValid)
         {
-            this.orderInLayer = 0;
-            this.currentLayerID = this.defaultLayerID;
+            SetOrderInLayer();
 
             this.mouseOffset = new OptionalVector2(); // i.e. no longer valid
         } else if (Input.GetMouseButton(0) && this.mouseOffset.IsValid)
@@ -150,41 +150,87 @@ public class CardBehaviour : MonoBehaviour
         this.front.enabled = flippedOver;
         this.back.enabled = !flippedOver;
 
-        //if (deckBehaviour == null)
-        //{
-        //    this.front.sortingLayerID = this.currentLayerID;
-        //    this.back.sortingLayerID = this.currentLayerID;
+        // Ensure front and back faces are consistent with this card's sorting position
+        this.front.sortingLayerID = this.currentLayerID;
+        this.front.sortingOrder = this.currentSortingOrder;
 
-        //    // Determine our order in the display
-        //    if (this.currentLayerID == this.defaultLayerID)
-        //    {
-        //        var overlapResults = new List<Collider2D>();
-        //        var contactFilter = new ContactFilter2D();
-        //        var numHits = this.myCollider.OverlapCollider(contactFilter.NoFilter(), overlapResults);
-        //        // print(string.Format("Overlapping with {0} cards", numHits));
-        //        // TODO: find the highest sort order and set ours to one above that.
-        //        foreach (Collider2D collider in overlapResults)
-        //        {
-
-        //        }
-        //        // TODO: if no hits, then our sort order is 0.
-
-        //    }
-        //}
-
+        this.back.sortingLayerID = this.currentLayerID;
+        this.back.sortingOrder = this.currentSortingOrder;
     }
-    public void SetOrderInLayer(int newOrderInLayer)
+
+    public int GetOrderInLayer(int sortingLayerID)
     {
-        this.orderInLayer = newOrderInLayer;
-        this.front.sortingOrder = newOrderInLayer;
-        this.back.sortingOrder = newOrderInLayer;
+        return this.currentLayerID == sortingLayerID ? this.currentSortingOrder : int.MinValue;
     }
+
+
+    private void SetOrderInLayer()
+    {
+        // Set the order in the layer to be one higher
+        // than the largest item beneath it
+        // (min of 0).
+        var overlapResults = new List<Collider2D>();
+        var contactFilter = new ContactFilter2D();
+        var numOverlaps = this.myCollider.OverlapCollider(contactFilter.NoFilter(), overlapResults);
+        int newOrderInLayer = 0; // i.e. nothing beneath us
+        if (numOverlaps == 0)
+        {
+            print("Not overlapping with anything.");
+        }
+        else
+        {
+            foreach (Collider2D collider in overlapResults)
+            {
+                // We have three possibilities:
+                int overlappingOrderInLayer;
+                // (1) overlapping a deck -- order in layer is order in layer of top card
+                // (2) overlapping a card -- order in layer is card behaviour's order in layer
+                // (3) overlapping a token -- order in layer is token behavior's order in layer
+                var parent = collider.transform.parent;
+                var deck = parent != null ? parent.GetComponent<DeckBehaviour>() : null;
+                if (deck != null)
+                {
+                    overlappingOrderInLayer = deck.GetOrderInLayer(this.defaultLayerID);
+                    print(string.Format("Overlapping a deck with order in layer {0}", overlappingOrderInLayer));
+                }
+                else
+                {
+                    var card = collider.transform.GetComponent<CardBehaviour>();
+                    if (card != null)
+                    {
+                        overlappingOrderInLayer = card.GetOrderInLayer(this.defaultLayerID);
+                        print(string.Format("Overlapping a card with order in layer {0}", overlappingOrderInLayer));
+                    }
+                    else
+                    {
+                        var token = collider.transform.GetComponent<TokenBehaviour>();
+                        if (token != null)
+                        {
+                            overlappingOrderInLayer = token.GetOrderInLayer(this.defaultLayerID);
+                            print(string.Format("Overlapping a token with order in layer {0}", overlappingOrderInLayer));
+                        }
+                        else
+                        {
+                            print("Not overlapping anything.");
+                            overlappingOrderInLayer = int.MinValue;
+                        }
+                    }
+                }
+                if (overlappingOrderInLayer >= newOrderInLayer)
+                {
+                    newOrderInLayer = overlappingOrderInLayer + 1;
+                }
+            }
+        }
+        this.currentLayerID = this.defaultLayerID;
+        this.currentSortingOrder = newOrderInLayer;
+    }
+
     public void StartDrag(Vector2 mousePos)
     {
         var xyPos = new Vector2(this.transform.position.x, this.transform.position.y);
         this.mouseOffset = new OptionalVector2(mousePos - xyPos);
         print(string.Format("Mouse down while mouse over card! Mouse offset = {0}", mouseOffset));
-        this.orderInLayer = 1000; // above everything
         this.currentLayerID = SortingLayer.NameToID("Moving");
 
     }

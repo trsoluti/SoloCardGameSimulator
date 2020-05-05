@@ -161,4 +161,11 @@ public class DeckBehaviour : MonoBehaviour
         cards = newCards;
         cardInstances = newCardInstances;
     }
+
+    public int GetOrderInLayer(int sortingLayerID)
+    {
+        var topCard = cardInstances.Length > 0 ? cardInstances[cardInstances.Length - 1] : null;
+        var topCardBehaviour = topCard != null ? topCard.GetComponent<CardBehaviour>() : null;
+        return topCardBehaviour != null ? topCardBehaviour.GetOrderInLayer(sortingLayerID) : int.MinValue;
+    }
 }

@@ -39,7 +39,6 @@ public class TokenBehaviour : MonoBehaviour
 
     private Collider2D myCollider;
     private SpriteRenderer mySpriteRenderer;
-    private int orderInLayer;
     private int currentLayerID;
     private int defaultLayerID;
 
@@ -57,7 +56,6 @@ public class TokenBehaviour : MonoBehaviour
             return;
         }
         this.mouseOffset = new OptionalVector2(); // i.e. not valid
-        this.orderInLayer = mySpriteRenderer.sortingOrder;
         this.currentLayerID = mySpriteRenderer.sortingLayerID;
         this.defaultLayerID = this.currentLayerID;
     }
@@ -73,10 +71,11 @@ public class TokenBehaviour : MonoBehaviour
                 this.StartDrag(mousePos);
             }
         }
-        else if (Input.GetMouseButtonUp(0))
+        else if (Input.GetMouseButtonUp(0) && this.mouseOffset.IsValid)
         {
-            this.orderInLayer = 0;
-            this.currentLayerID = this.defaultLayerID;
+            // Set our sorting order based on the sorting orders
+            // of anything beneath us.
+            setOrderInLayer();
 
             this.mouseOffset = new OptionalVector2(); // i.e. no longer valid
         }
@@ -89,9 +88,6 @@ public class TokenBehaviour : MonoBehaviour
                 transform.position.z
                 );
         }
-
-        mySpriteRenderer.sortingOrder = this.orderInLayer;
-        mySpriteRenderer.sortingLayerID = this.currentLayerID;
     }
 
     public void StartDrag(Vector2 mousePos)
@@ -99,8 +95,77 @@ public class TokenBehaviour : MonoBehaviour
         var xyPos = new Vector2(this.transform.position.x, this.transform.position.y);
         this.mouseOffset = new OptionalVector2(mousePos - xyPos);
         // print(string.Format("Mouse down while mouse over token! Mouse offset = {0}", mouseOffset));
-        this.orderInLayer = 1001; // above everything, even cards
         this.currentLayerID = SortingLayer.NameToID("Moving");
+        this.mySpriteRenderer.sortingLayerID = SortingLayer.NameToID("Moving");
 
+    }
+
+    public int GetOrderInLayer(int sortingLayerID)
+    {
+        if (mySpriteRenderer.sortingLayerID == sortingLayerID)
+        {
+            return mySpriteRenderer.sortingOrder;
+        }
+        return int.MinValue;
+    }
+
+    private void setOrderInLayer()
+    {
+        // action is not valid if the card is not in collision with a deck
+        var overlapResults = new List<Collider2D>();
+        var contactFilter = new ContactFilter2D();
+        var numOverlaps = this.myCollider.OverlapCollider(contactFilter.NoFilter(), overlapResults);
+        int newOrderInLayer = 0; // i.e. nothing beneath us
+        if (numOverlaps == 0)
+        {
+            print("Not overlapping with anything.");
+        }
+        else
+        {
+            foreach (Collider2D collider in overlapResults)
+            {
+                // We have three possibilities:
+                int overlappingOrderInLayer;
+                // (1) overlapping a deck -- order in layer is order in layer of top card
+                // (2) overlapping a card -- order in layer is card behaviour's order in layer
+                // (3) overlapping a token -- order in layer is token behavior's order in layer
+                var parent = collider.transform.parent;
+                var deck = parent != null ? parent.GetComponent<DeckBehaviour>() : null;
+                if (deck != null)
+                {
+                    overlappingOrderInLayer = deck.GetOrderInLayer(this.defaultLayerID);
+                    print(string.Format("Overlapping a deck with order in layer {0}", overlappingOrderInLayer));
+                }
+                else
+                {
+                    var card = collider.transform.GetComponent<CardBehaviour>();
+                    if (card != null)
+                    {
+                        overlappingOrderInLayer = card.GetOrderInLayer(this.defaultLayerID);
+                        print(string.Format("Overlapping a card with order in layer {0}", overlappingOrderInLayer));
+                    }
+                    else
+                    {
+                        var token = collider.transform.GetComponent<TokenBehaviour>();
+                        if (token != null)
+                        {
+                            overlappingOrderInLayer = token.GetOrderInLayer(this.defaultLayerID);
+                            print(string.Format("Overlapping a token with order in layer {0}", overlappingOrderInLayer));
+                        }
+                        else
+                        {
+                            print("Not overlapping anything.");
+                            overlappingOrderInLayer = int.MinValue;
+                        }
+                    }
+                }
+                if (overlappingOrderInLayer >= newOrderInLayer)
+                {
+                    newOrderInLayer = overlappingOrderInLayer + 1;
+                }
+            }
+        }
+        mySpriteRenderer.sortingLayerID = this.defaultLayerID;
+        mySpriteRenderer.sortingOrder = newOrderInLayer;
     }
 }
